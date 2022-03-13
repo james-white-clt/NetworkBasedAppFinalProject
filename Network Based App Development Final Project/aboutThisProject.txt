@@ -1,0 +1,3 @@
+This was my final project for my Network Based App Development (ITIS 4166) class. I was to develop a webpage where users can host and join
+events at our school through RSVP. The class was primarily focused around backend development and I was very proud of the work I put into it
+and scored a 100% on the project.
